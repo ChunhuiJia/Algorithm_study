@@ -2,7 +2,9 @@
 
 ## 参考链接：
 
-## 1.[学生视频-KD树](https://www.bilibili.com/video/BV1d5411w7f5/?spm_id_from=333.788.recommend_more_video.0)
+1.[学生视频-KD树--讲的很好，推荐，但是没有程序编写部分](https://www.bilibili.com/video/BV1d5411w7f5/?spm_id_from=333.788.recommend_more_video.0)
+
+2.[Kd-tree原理与实现(有C++程序)](https://blog.csdn.net/guoziqing506/article/details/54692392)
 
 ## 什么是kd树
 
